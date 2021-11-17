@@ -1,4 +1,4 @@
-# [React Berry Dashboard](https://appseed.us/product/react-node-js-berry-dashboard) 
+# [Sansi Dashboard](https://appseed.us/product/react-node-js-berry-dashboard) 
 
 **Berry** is a creative **[React Dashboard](https://appseed.us/product/react-node-js-berry-dashboard)** build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer **React Dashboard** with an easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: `login`/`register`/`logout` powered by an open-source **Node JS API** Backend via `Passport` Library.
 
